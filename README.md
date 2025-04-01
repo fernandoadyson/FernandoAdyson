@@ -1,24 +1,12 @@
-### <h1 align="center"> Olá! Eu sou o Fernando Adyson 👋 </h1>
-<div align="center"><br>
-  <a href="https://github.com/fernandoadyson">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandoadyson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoadyson&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="FernandoAdyson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="FernandoAdyson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="FernandoAdyson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="FernandoAdyson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div align="center"> 
-  <a href="https://instagram.com/fernandoadyson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fernando_adyson@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernandoadyson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![Snake animation](https://github.com/fernandoadyson/fernandoadyson/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+# Fernando Adyson 
+
+Tech Lead @neWave.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Adyson-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoadyson/)](https://www.linkedin.com/in/fernandoadyson/) 
+[![Gmail Badge](https://img.shields.io/badge/-adyson.souza@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adyson.souza@gmail.com)](mailto:adyson.souza@gmail.com)
+
+Enthusiast of the best web development technologies.
+
+Passionate about teaching and learning. More than 15 people have passed through my team leadership.
+
+"Nothing in this world beats good old persistence. Talent does not overcome. Nothing is more common than talented failures. Genius does not overcome. Unrecognized genius is practically a cliché. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
