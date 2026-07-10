@@ -1,6 +1,6 @@
 # Fernando Adyson 
 
-Tech Lead @neWave.
+Tech Lead.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Adyson-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoadyson/)](https://www.linkedin.com/in/fernandoadyson/) 
 [![Gmail Badge](https://img.shields.io/badge/-adyson.souza@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adyson.souza@gmail.com)](mailto:adyson.souza@gmail.com)
